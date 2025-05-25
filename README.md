@@ -1,1 +1,1 @@
-# CP-project
+This  gives a full C++ code, which is a comprehensive application for managing and calculating tourism expenses. The code covers a variety of topics, including user input, currency conversion, travel and hotel options, and expense computations.
